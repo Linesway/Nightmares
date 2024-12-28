@@ -1,6 +1,8 @@
 # Nightmares
-Nightmares: Placed #1 for the Dreams Game Jam 
-Made in 1 week!
+- Nightmares: Placed #1 for the Dreams Game Jam
+- Made in 1 week in Unity
+- Compiled to HTML and supports web browsers
+
 
 https://theworm.itch.io/nightmares
 
